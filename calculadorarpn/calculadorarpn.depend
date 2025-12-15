@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1765805941 source:/home/jean/Desktop/codebloks/c puro/calculadorarpn/calcf.c
+	"calcf.h"
+	<math.h>
+
+1765805188 /home/jean/Desktop/codebloks/c puro/calculadorarpn/calcf.h
+
+1765805530 source:/home/jean/Desktop/codebloks/c puro/calculadorarpn/main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcf.h"
+	<math.h>
+
